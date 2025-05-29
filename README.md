@@ -36,3 +36,6 @@ WHERE A> 15
 ```
 POWER BI FOR CREATING REPORT
 [DOWNLOAD](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+### MY ANALYSIS
+[Pivot Tables File (PRACTICE).xlsx](https://github.com/user-attachments/files/20508859/Pivot.Tables.File.PRACTICE.xlsx)
