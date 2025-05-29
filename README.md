@@ -10,9 +10,9 @@ AM A CERTIFIED QUALITY ANALYST IN PROMASIDOR NIGERIA LIMIUTED, CURRENTLY I WANT 
 Food safety is a critical aspect of tea manufacturing, ensuring that products meet industry standards and consumer expectations. The filter paper, a vital component of the production process, is responsible for handling and transferring tea materials. However, without proper protective coverings, filter paper become highly susceptible to environmental contamination from dust, airborne microbes, and other particles ( see appendices).
 
 ### PROCEJECT SCOPE
-The primary goal of this project is to design, fabricate, and install protective overs for filter paper to prevent contamination. [https://www.youtube.com/watch?v=F40Y-_rXMic&list=PLVlVLJaOlit7cuPJKp9Ky7ps2yJnt8Ays&index=1&pp=iAQB] covers for filter paper to prevent contamination.
+The primary goal of this project is to design, fabricate, and install protective overs for filter paper to prevent contamination. [see video](https://www.youtube.com/watch?v=F40Y-_rXMic&list=PLVlVLJaOlit7cuPJKp9Ky7ps2yJnt8Ays&index=1&pp=iAQB) covers for filter paper to prevent contamination.
 This project will focus on:
-- Conducting a contamination risk assessment (download here)
+- Conducting a contamination risk assessment [download here](https://www.microsoft.com)
   - by carrying out process audit
   - creating checklist for operatives
   - providing SOPs for production spervisor
