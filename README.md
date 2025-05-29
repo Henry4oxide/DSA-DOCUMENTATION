@@ -41,3 +41,8 @@ POWER BI FOR CREATING REPORT
 [Pivot Tables File (PRACTICE).xlsx](https://github.com/user-attachments/files/20508859/Pivot.Tables.File.PRACTICE.xlsx)
 
 [SEE CHART](https://github.com/Henry4oxide/DSA-DOCUMENTATION/blob/main/CHARTS)
+
+[IMAGE](https://github.com/user-attachments/assets/4d9d3bf6-20c1-4a33-bbc4-09a7415a67bf)
+
+
+
