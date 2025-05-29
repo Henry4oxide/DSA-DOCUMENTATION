@@ -22,3 +22,17 @@ This project will focus on:
 - Establishing a routine maintenance program to ensure continued effectiveness.
 - Training employees on hygiene best practices and the importance of protective covers.
 
+### PROJECT PROTOCOL
+A structured implementation plan is essential to ensure project success. The following steps will be followed:
+1. Assessment of Current Contamination Risks – Conduct site surveys and microbiological tests.
+2. Design and Development of Protective Covers – Create designs that provide full coverage while allowing proper ventilation.
+3. Material Selection – Use food-safe, durable, and easy-to-clean materials.
+4. Installation and Testing – Fit covers onto machines and conduct effectiveness tests.
+5. Monitoring and Maintenance – Establish a cleaning schedule and inspection plan.
+
+``` SQL
+SELECT A,B,C
+WHERE A> 15
+```
+POWER BI FOR CREATING REPORT
+[DOWNLOAD](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
